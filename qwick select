@@ -28,7 +28,7 @@ public class Main
             //9 14 19 24
             //9 14 19
             //9 14
-            //9
+           
             
             if(index>k){
                return QwickSelect(arr,low,index-1,k);
